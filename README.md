@@ -12,14 +12,9 @@ Tu aplicación debe:
 
 1. Crear una nueva tarea
 2. Ver todas las tareas
-3. Renombrar las tareas
-5. Crear tareas
-6. Asociar un usuario a una tarea
-7. Marcar las tareas como completadas
-8. Editar el contenido de una tarea
-9. Borrar una tarea.
-10. Mostrar el tiempo restante de la tarea
-11. Ver el detalle de la tarea
+3. Ver el detalle de la tarea
+4. Borrar una tarea.
+5. Editar una tarea.
 
 ## ¿Qué vamos a calificar? 🏁
 * Excelentes prácticas
