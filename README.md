@@ -8,13 +8,13 @@ Desarrollar una ToDo App. Nosotros te proveemos el diseño en móvil. Dependiend
 Link del diseño 👉 https://www.sketch.com/s/e56f2fa2-1281-4229-9744-245e3165cd10/a/g3Kp9r#Inspector
 
 ### Funcionalidad de la aplicación 📌
-Tu aplicación debe:
+Tu aplicación debe (CRUD):
 
 1. Crear una nueva tarea
-2. Ver todas las tareas
-3. Ver el detalle de la tarea
-4. Borrar una tarea.
-5. Editar una tarea.
+2. Ver el detalle de la tarea
+3. Borrar una tarea.
+4. Editar una tarea.
+5. Ver todas las tareas
 
 ## ¿Qué vamos a calificar? 🏁
 * Excelentes prácticas
