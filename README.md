@@ -12,8 +12,8 @@ Tu aplicación debe (CRUD):
 
 1. Crear una nueva tarea
 2. Ver el detalle de la tarea
-3. Borrar una tarea.
-4. Editar una tarea.
+3. Editar una tarea.
+4. Borrar una tarea.
 5. Ver todas las tareas
 
 ## ¿Qué vamos a calificar? 🏁
