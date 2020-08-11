@@ -6,7 +6,7 @@ Nos alegra que hayas llegado hasta este punto y puedas llegar a ser parte del gr
 
 Tu tarea consiste en tomar el siguiente diseño y desarrollarlo en JS Vainilla, React, Angular o Vue.
 
-![Captura de pantalla](preview.jpg)
+![Captura de pantalla](preview@1x.jpg)
 
 Link del diseño 👉 https://www.sketch.com/s/7f553820-d3b7-443c-86d7-f19bea8dcb89
 
