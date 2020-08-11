@@ -1,22 +1,28 @@
-# Prueba de Front-end para Serempre
-Hola!
+# Prueba Front End para Serempre
+Hola! 👋
 Nos alegra que hayas llegado hasta este punto y puedas llegar a ser parte del gran equipo humano de Serempre.
 
-## ¿Qué debes hacer? 🧩
-![](1280 +.jpg)
+### ¿Qué debes hacer? 🧩
 
-Link del diseño 👉 https://www.sketch.com/s/e56f2fa2-1281-4229-9744-245e3165cd10/a/g3Kp9r#Inspector
+Tu tarea consiste en tomar el siguiente diseño y desarrollarlo en JS Vainilla, React, Angular o Vue.
 
-### Funcionalidad de la aplicación 📌
-Tu aplicación debe (CRUD):
+![Captura de pantalla](preview.jpg)
 
-1. Crear una nueva tarea
-2. Ver el detalle de la tarea
-3. Editar una tarea.
-4. Borrar una tarea.
-5. Ver todas las tareas
+Link del diseño 👉 https://www.sketch.com/s/7f553820-d3b7-443c-86d7-f19bea8dcb89
 
-## ¿Qué vamos a calificar? 🏁
+En el siguiente repositorio vas a encontrar las fuentes necesarias para llevar a cabo la tarea.
+
+### ¿Qué estamos buscando? 🕵️‍♂️
+
+- **Atención al detalle**. El desarrollo debe ser fiel al diseño totalmente. Teniendo en cuenta colores, escala tipográfica, espaciados, altura de línea, etc.
+- **Ten en cuenta los diferentes dispositivos**. En el diseño podrás encontrar las respectivas referencias a los breakpoints.
+- **Hazla interactivida**. Los usuarios podrán seleccionar entre las diferentes imágenes y ver la previsualización en tiempo real, también podrán explorar las diferentes características (Overview, features, etc..) del producto por medio unas tabs, y el precio total debe mostrar la configutación seleccioanada por el usuario en el total ubicado en el footer.
+- **Haz tu solución accesible**. Sigue los mejores estándares de accesibilidad, incluyendo navegación por medio del reclado.
+- **Crea tus componentes desde cero**. No uses ninguna librería para el carrusel de imágenes, los tabs, etc.
+- **Crea los componentes reusables y escalables**. Piensa en la cantidad de desarrolladores que podrían participar en el proyecto así como cuánto podría crecer el mismo.
+
+### A tener en cuenta 👀
+
 * Excelentes prácticas
 * Metodologías semánticas y técnicas
 * DRY y KISS
@@ -30,16 +36,23 @@ Tu aplicación debe (CRUD):
 * Optimización de recursos y assets
 * Proficiencia a la hora de escribir CSS
 
-## Es un plus 🚀
+### Es un plus 🚀
+
 * Escribir test de los componentes
 * Resolver problemas desde un enfoque UX / UI
 * Despliegue en una plataforma online (Heroku, Netlify, etc..)
 * Uso de TypeScript
 
-## En caso que te animes a correr la milla extra 🏃‍♀️🏃‍♂️
+### En caso que te animes a correr la milla extra 🏃‍♀️🏃‍♂️
+
 * Agregar animaciones
 * Incluir un loading
 * Integrar con una plataforma de Back-end
-* Utilizar un Gravatar basado en el nombre del usuario
 
+
+### Para enviar tu solución 🏁
+
+Incluye un `README.md` con una pequeña descripción de tu solución que hable de las cosas interesantes con las que te enfrentaste, decisiones que tomaste, etc.
+Cuando termines, crea un repositorio privado en GitHub que solo contenga tu proyecto e invítame al mismo (Soy `fcastillo-serempre`).
+En la medida de lo posible monta el proyecto en una plataforma como Heroku, Netlify, etc.
 
