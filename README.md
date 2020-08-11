@@ -3,7 +3,7 @@ Hola!
 Nos alegra que hayas llegado hasta este punto y puedas llegar a ser parte del gran equipo humano de Serempre.
 
 ## ¿Qué debes hacer? 🧩
-Desarrollar una ToDo App. Nosotros te proveemos el diseño en móvil. Dependiendo las funcionalidades que te pedimos debes decidir qué elementos son acordes a lo solicitado. El nicho de la aplicación es para usuarios que usan dispositivos como portátiles y computadores de escritorio, por lo cuál debes tener en cuenta la adaptabilidad a dicho escenario, está en tu imaginación.
+![](1280 +.jpg)
 
 Link del diseño 👉 https://www.sketch.com/s/e56f2fa2-1281-4229-9744-245e3165cd10/a/g3Kp9r#Inspector
 
