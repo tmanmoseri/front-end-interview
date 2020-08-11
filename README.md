@@ -16,8 +16,8 @@ En el siguiente repositorio vas a encontrar las fuentes necesarias para llevar a
 
 - **Atención al detalle**. El desarrollo debe ser fiel al diseño totalmente. Teniendo en cuenta colores, escala tipográfica, espaciados, altura de línea, etc.
 - **Ten en cuenta los diferentes dispositivos**. En el diseño podrás encontrar las respectivas referencias a los breakpoints.
-- **Hazla interactivida**. Los usuarios podrán seleccionar entre las diferentes imágenes y ver la previsualización en tiempo real, también podrán explorar las diferentes características (Overview, features, etc..) del producto por medio unas tabs, y el precio total debe mostrar la configutación seleccioanada por el usuario en el total ubicado en el footer.
-- **Haz tu solución accesible**. Sigue los mejores estándares de accesibilidad, incluyendo navegación por medio del reclado.
+- **Hazla interactiva**. Los usuarios podrán seleccionar entre las diferentes imágenes y ver la previsualización en tiempo real, también podrán explorar las diferentes características (Overview, features, etc..) del producto por medio unas tabs, y el precio total debe mostrar la configuración seleccionada por el usuario en el total ubicado en el footer.
+- **Haz tu solución accesible**. Sigue los mejores estándares de accesibilidad, incluyendo navegación por medio del teclado.
 - **Crea tus componentes desde cero**. No uses ninguna librería para el carrusel de imágenes, los tabs, etc.
 - **Crea los componentes reusables y escalables**. Piensa en la cantidad de desarrolladores que podrían participar en el proyecto así como cuánto podría crecer el mismo.
 
