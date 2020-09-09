@@ -40,7 +40,6 @@ En el siguiente repositorio vas a encontrar las fuentes necesarias para llevar a
 
 * Escribir test de los componentes
 * Resolver problemas desde un enfoque UX / UI
-* Despliegue en una plataforma online (Heroku, Netlify, etc..)
 * Uso de TypeScript
 
 ### En caso que te animes a correr la milla extra 🏃‍♀️🏃‍♂️
@@ -54,5 +53,5 @@ En el siguiente repositorio vas a encontrar las fuentes necesarias para llevar a
 
 Incluye un `README.md` con una pequeña descripción de tu solución que hable de las cosas interesantes con las que te enfrentaste, decisiones que tomaste, etc.
 Cuando termines, crea un repositorio privado en GitHub que solo contenga tu proyecto e invítame al mismo (Soy `fcastillo-serempre`).
-En la medida de lo posible monta el proyecto en una plataforma como Heroku, Netlify, etc.
+Monta el proyecto en una plataforma como Heroku, Netlify, Vercel, etc.
 
